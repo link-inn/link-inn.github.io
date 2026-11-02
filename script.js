@@ -15,7 +15,7 @@ const CONFIG = {
     {
       title: "Arara Delivery",
       links: [
-        { title: "Peça agora pelo Arara",  subtitle: "Para clientes • Faça seu pedido",       url: "https://araradelivery.com/client/categories",  icon: "delivery" },
+        { title: "Peça pelo Arara Delivery", subtitle: "Para clientes - Faça seu pedido agora",       url: "https://araradelivery.com/client/categories",  icon: "delivery" },
         { title: "Seja parceiro Arara",    subtitle: "Cadastre sua loja ou seja entregador",  url: "https://araradelivery.com/seja-parceiro", icon: "handshake" },
       ],
     },
