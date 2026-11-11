@@ -31,6 +31,7 @@ const CONFIG = {
       links: [
         { title: "WhatsApp",  subtitle: "Atendimento direto", url: "https://wa.me/5592984361882?text=Ol%C3%A1!%20Vim%20pelo%20link%20da%20bio.",      icon: "whatsapp" },
         { title: "Instagram", subtitle: "@eumarcosst",        url: "https://www.instagram.com/eumarcosst/", icon: "instagram" },
+        { title: "Portfólio profissional", subtitle: "Contrate-me", url: "https://marcossouzatavares.github.io/portfolio-online/", icon: "briefcase" },
       ],
     },
     {
